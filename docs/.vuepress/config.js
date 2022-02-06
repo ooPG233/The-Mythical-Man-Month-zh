@@ -5,7 +5,7 @@ module.exports = {
   themeConfig: {
     repo: "ooPG233/The-Mythical-Man-Month-zh",
     repoLabel: "Github",
-    docsRepo: "gdut-yy/The-Mythical-Man-Month-zh",
+    docsRepo: "ooPG233/The-Mythical-Man-Month-zh",
     docsBranch: "main/docs",
     editLinks: true,
     editLinkText: "帮助我们改善此页面！",
