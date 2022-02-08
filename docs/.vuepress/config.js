@@ -1,7 +1,7 @@
 // .vuepress/config.js
 module.exports = {
   title: "《人月神话》中文翻译",
-  base: "/The-Mythical-Man-Month-ghpage/",
+  base: "/The-Mythical-Man-Month-zh/",
   themeConfig: {
     repo: "ooPG233/The-Mythical-Man-Month-zh",
     repoLabel: "Github",
